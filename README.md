@@ -1,4 +1,4 @@
-# MI-IOT_semestral_work
+# Remotely controled greenhouse
 
 **Short task introduction**
 
